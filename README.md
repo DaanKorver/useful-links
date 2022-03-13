@@ -16,4 +16,5 @@ Name | Category | Description |
 | [Threed.io](https://threed.io/) | Mockup | 3D mockup generator
 | [Meshgradient](https://meshgradient.com/) | Gradients | Mesh gradient generator |
 | [Happyhues.co](https://www.happyhues.co/) | Colors | Color palette inspiration |
+| [Adobe Color](https://color.adobe.com/) | Colors | Helps making color palletes |
 | [Wordmark.it](https://wordmark.it/) | Fonts | Helps you choose fonts for your creative projects |
