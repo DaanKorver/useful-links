@@ -18,3 +18,7 @@ Name | Category | Description |
 | [Happyhues.co](https://www.happyhues.co/) | Colors | Color palette inspiration |
 | [Adobe Color](https://color.adobe.com/) | Colors | Helps making color palletes |
 | [Wordmark.it](https://wordmark.it/) | Fonts | Helps you choose fonts for your creative projects |
+| [Typewolf](https://www.typewolf.com/) | Fonts | Find treding typography |
+| [Awwwards](https://www.awwwards.com/) | Inspiration | For website design inspiration |
+| [Siteinspire](https://www.siteinspire.com/) | Inspiration | For website design inspiration |
+| [No Code Inspiration](https://www.nocodeinspire.com/) | Inspiration | For website design inspiration |
