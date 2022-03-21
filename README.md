@@ -22,3 +22,4 @@ Name | Category | Description |
 | [Awwwards](https://www.awwwards.com/) | Inspiration | For website design inspiration |
 | [Siteinspire](https://www.siteinspire.com/) | Inspiration | For website design inspiration |
 | [No Code Inspiration](https://www.nocodeinspire.com/) | Inspiration | For website design inspiration |
+| [Supertokens](https://github.com/supertokens/supertokens-core) | Auth | Easy simple auth SDK |
