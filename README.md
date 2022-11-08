@@ -24,3 +24,4 @@ Name | Category | Description |
 | [No Code Inspiration](https://www.nocodeinspire.com/) | Inspiration | For website design inspiration |
 | [Supertokens](https://github.com/supertokens/supertokens-core) | Auth | Easy simple auth SDK |
 | [Component Gallery](https://component.gallery/components/) | Design | Components and design systems|
+| [Lucide icons](https://lucide.dev/) | Icons | SVG Icons with JS support|
